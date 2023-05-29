@@ -24,3 +24,12 @@ Once you have Installed OsTicket, log in to the portal to open OsTicket.
  Defining Role Permissions: In the role settings page, you will see a list of available permissions. Enable or disable the checkboxes next to each permission to grant or restrict access for the role you're creating. The available permissions may vary based on the osTicket version and any plugins you have installed.
 
 Permissions typically include actions like managing tickets, managing knowledgebase articles, managing departments, and accessing specific settings. Consider your organizational needs and the level of access each role should have.
+ <p>
+  <img src="https://i.imgur.com/oQAq1Ij.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Now We'll Go go over setting up Departments
+ <p>
+  <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
