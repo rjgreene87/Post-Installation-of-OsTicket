@@ -49,3 +49,19 @@ Internal Notes: Choose whether internal notes are visible to the user or restric
  Defining Department Permissions: By default, all staff members have access to all departments. However, if you want to restrict access to specific departments, you can edit individual staff members' profiles and limit their department access.
 
 To do this, navigate to the "Staff" tab in the admin panel and select "Manage" and then "Staff Members." Edit a staff member's profile and choose the departments they should have access to by checking the appropriate checkboxes under the "Department Access" section.
+<p>
+  <img src="https://i.imgur.com/MvFsrZH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Navigating to Teams: Once you're in the admin panel, click on the "Admin" tab in the top navigation bar. From the dropdown menu, select "Manage" and then choose "Teams."
+ 
+ Adding a New Team: To create a new team, click on the "Add New Team" button. Provide a name for the team and a brief description to help identify its purpose or function.
+ <p>
+  <img src="https://i.imgur.com/txf8Xrv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Configuring Team Options: You can configure additional options for the team, such as the team's email address and team signature. The team email address will be used for ticket assignment and collaboration purposes, while the team signature will be appended to outgoing emails from the team.
+
+Defining Team Permissions: By default, team members have access to all tickets in the system. However, if you want to restrict team members to specific departments or ticket queues, you can edit individual staff members' profiles and limit their access.
+
+To do this, navigate to the "Staff" tab in the admin panel and select "Manage" and then "Staff Members." Edit a staff member's profile and choose the departments or queues they should have access to by checking the appropriate checkboxes under the "Department Access" or "Queue Access" sections.
