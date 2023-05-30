@@ -75,3 +75,62 @@ If you want to allow access for anyone to create tickets, make sure you're under
   <img src="https://i.imgur.com/hSEwOTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+ 
+ To create agents panel and click "Add New Agent" 
+ 
+ <p>
+  <img src="https://i.imgur.com/SnQYK5N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+ From here you can assign agents different roles, permissions, and even place them into teams. 
+ 
+ 
+ 
+Creating SLA Plans
+
+In the admin dashboard, locate and click on the "Admin Panel" button in the top right corner.
+In the Admin Panel, navigate to "Manage -> SLA".
+Click on the "Add New SLA Plan" button.
+ 
+ <p>
+  <img src="https://i.imgur.com/LUCep2j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+ Configuring SLA Plan Details
+
+Provide a name for the SLA plan in the "Title" field.
+Set the priority level for this plan using the "Priority" drop-down menu. This defines the importance of tickets associated with this SLA plan.
+Optionally, you can set a response time and resolution time by specifying the hours, minutes, and seconds in the corresponding fields. These times determine the target durations for responding to and resolving tickets.
+Adjust any other settings according to your requirements.
+ 
+  <p>
+  <img src="https://i.imgur.com/wxD3bmB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+ Defining Escalation Rules
+
+Under the "Escalation Rules" section, click on the "Add Rule" button.
+Specify a name for the escalation rule in the "Title" field.
+Set the duration after which the escalation rule should be triggered, using the "Duration" field. For example, if you want to escalate the ticket after 2 hours, enter "2" in the "Duration" field.
+Choose the action that should be taken when the escalation rule is triggered using the "Action" drop-down menu. You can select options like "Send an Email," "Close the Ticket," etc.
+Configure any other escalation rules you need for this SLA plan by clicking on the "Add Rule" button again and repeating the steps.
+ 
+   <p>
+  <img src="https://i.imgur.com/UrNZhTo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+ Creating Help Topics
+
+In the admin dashboard, locate and click on the "Admin Panel" button in the top right corner.
+In the Admin Panel, navigate to "Manage -> Help Topics".
+Click on the "Add New Help Topic" button.
+ 
+   <p>
+  <img src="https://i.imgur.com/c3rxiSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
