@@ -145,6 +145,10 @@ Adjust any other settings according to your requirements.
 </p>
 <p>
 
+ <p>
+  <img src="https://i.imgur.com/Zn7Rdgt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
  
  Well ladies and gentlemen that pretty sums up the basic of how to configure OsTicket !
  
