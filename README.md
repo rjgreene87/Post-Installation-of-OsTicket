@@ -134,3 +134,17 @@ Click on the "Add New Help Topic" button.
   <img src="https://i.imgur.com/c3rxiSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ 
+Provide a name for the help topic in the "Name" field.
+Optionally, you can set a parent topic by selecting an existing help topic from the "Parent Topic" drop-down menu. This allows you to create a hierarchy of help topics.
+Set the status of the help topic using the "Status" drop-down menu. You can choose between "Active," "Locked," or "Archived." The "Active" status allows users to select the help topic when submitting a ticket, while "Locked" prevents users from selecting it.
+Adjust any other settings according to your requirements.
+ 
+  <p>
+  <img src="https://i.imgur.com/GQyAqrc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+ 
+ Well ladies and gentlemen that pretty sums up the basic of how to configure OsTicket !
+ 
