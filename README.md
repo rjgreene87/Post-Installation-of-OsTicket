@@ -65,3 +65,13 @@ To do this, navigate to the "Staff" tab in the admin panel and select "Manage" a
 Defining Team Permissions: By default, team members have access to all tickets in the system. However, if you want to restrict team members to specific departments or ticket queues, you can edit individual staff members' profiles and limit their access.
 
 To do this, navigate to the "Staff" tab in the admin panel and select "Manage" and then "Staff Members." Edit a staff member's profile and choose the departments or queues they should have access to by checking the appropriate checkboxes under the "Department Access" or "Queue Access" sections.
+    
+ 
+If you want to allow access for anyone to create tickets, make sure you're under admin, go to users, and then settings.
+  (When you get to settings make sure you uncheck require registration and login box.)
+ 
+  
+ <p>
+  <img src="https://i.imgur.com/hSEwOTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
